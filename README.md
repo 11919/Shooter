@@ -6,6 +6,6 @@
 <br>
 <Example of Screenshots of our completed game app.</b><br><br>
 Shooting Game Start Screen</b>&nbsp;&nbsp;:octocat:<br><br>
-![Alt Text] (https://github.com/11919/Shooter/master/blob/screenshots/Capture.JPG "Start Screen")
+![Alt Text] (https://github.com/11919/Shooter/blob/master/screenshots/Capture.JPG "Start Screen")
 
 <br><br>
