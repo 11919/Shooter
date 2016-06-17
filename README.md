@@ -6,6 +6,6 @@
 <br>
 <Example of Screenshots of our completed messenger app.</b><br><br>
 Messenger app Start Screen</b>&nbsp;&nbsp;:octocat:<br><br>
-![Alt Text] (https://github.com/11919/Shooter/master/screenshots/hi.JPG "Start Screen")
+![Alt Text] (https://github.com/11919/Shooter/master/screenshots/Capture.JPG "Start Screen")
 
 <br><br>
